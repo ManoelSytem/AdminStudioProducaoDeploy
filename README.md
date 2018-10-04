@@ -1,2 +1,0 @@
-# AdminStudioProducaoDeploy
-Sistema em Producao
